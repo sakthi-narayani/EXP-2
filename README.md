@@ -49,15 +49,47 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test
 
+
+<img width="855" height="636" alt="table 2 2" src="https://github.com/user-attachments/assets/5a97fb75-d930-4ec5-94ec-8722c7f82351" />
+
+
 Tabulation for Load Test:
 
+
+<img width="736" height="577" alt="table 2 1" src="https://github.com/user-attachments/assets/53380721-391f-45e4-9e71-b2fb1ded1836" />
+
+
 Model graph:
+
+Open circuit graph:
+
+<img width="1262" height="606" alt="graph 2 2" src="https://github.com/user-attachments/assets/319a1830-56cd-4097-87c4-5362d4d64f1e" />
+
+Load circuit graph:
+
+<img width="1542" height="487" alt="graph 2 1" src="https://github.com/user-attachments/assets/2f81fb45-50f5-4909-a950-324a958fe74a" />
+
 Calculation: 
 
-Open circuit characteristics
+Open circuit calculation:
+
+<img width="528" height="566" alt="calculation 2 2" src="https://github.com/user-attachments/assets/c65c7b2a-90bd-4a99-a5c6-3ebd8e0d726c" />
+
+Load circuit calculation:
+
+
+<img width="733" height="802" alt="calculation 2 1" src="https://github.com/user-attachments/assets/bf0ca317-48f4-4976-b71e-30cdfb52c195" />
+
+
+
+Open circuit characteristics:
+
+The curve of generated EMF V against field current I_f at constant rated speed, with the load disconnected.
 
   
 Load Characteristics:
- 
+
+Terminal voltage V_t against load current I_L at constant rated speed, with the field rheostat fixed after setting rated voltage at no load.
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
